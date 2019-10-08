@@ -1,0 +1,91 @@
+xbody {
+    margin: 0;
+    font-family: futura;
+}
+
+.rectangle {
+    position: static;
+    top: auto;
+    background-color: red;
+    width: 200vh;
+    height: 100%;
+    box-sizing: content-box;
+    box-shadow: 20%
+}
+.rectangle2{
+    position: relative;
+    background-color: black;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle3{
+    position: relative;
+    background-color: black;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle4{
+    position: relative;
+    background-color: black;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle5{
+    position: relative;
+    background-color: black;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle6{
+    position: relative;
+    background-color: black;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle7{
+    position: relative;
+    background-color: black;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+
+#ALONE {
+    font-size: 65px;
+    font-kerning: normal;
+    font-stretch: extra-expanded;
+}
+
+#h1{
+    color: white;
+    font-size: 45px
+}
+#h2{
+    color: white;
+    font-size: 40px
+}
+#h3{
+    color: white;
+    font-size: 35px
+}
+#h3{
+    color: white;
+    font-size: 30px
+}
+#h4{
+    color: white;
+    font-size: 25px
+}
+#h5{
+    color: white;
+    font-size: 20px
+}
+#h6{
+    color: white;
+    font-size: 15px
+}

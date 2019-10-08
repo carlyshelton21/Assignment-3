@@ -1,0 +1,89 @@
+body {
+    margin: 50;
+    font-family: helvetica;
+    font-weight: bold;
+    background-color: #aaaaaa;
+}
+
+.rectangle {
+    position: static;
+    top: auto;
+    background-color: #0fee47;
+    width: 50vh;
+    height: 100%;
+    box-sizing: content-box;
+}
+
+.rectangle2 {
+    position: relative;
+    background-color: #0fee47;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+
+.rectangle3 {
+    position: relative;
+    background-color: #0fee47;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+
+.rectangle4 {
+    position: relative;
+    background-color: #0fee47;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle5 {
+    position: relative;
+    background-color: #0fee47;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle6 {
+    position: relative;
+    background-color: #0f18ee;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle7 {
+    position: relative;
+    background-color: #0fee47;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+#h1 {
+    color: black;
+    font-size: 42px;
+}
+
+#h6 {
+    color: black;
+    font-size: 15px;
+}
+
+#h2 {
+    color: black;
+    font-size: 42px;
+}
+
+#h5 {
+    color: black;
+    font-size: 25px;
+}
+
+#ALONE {
+    color: white;
+    font-size: 60px;
+}
+
+#EDGAR {
+    color: black;
+    font-size: 55px;
+}

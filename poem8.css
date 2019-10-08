@@ -1,0 +1,39 @@
+body {
+  margin: 50;
+  font-family: gotham;
+  background-color: #ffa100;
+}
+.rectangle {
+  position: static;
+  top: auto;
+  background-color: #46c700;
+  width: 50vh;
+  height: 100%;
+  box-sizing: content-box;
+}
+.rectangle2 {
+  position: relative;
+  background-color: #c9c4c4;
+  width: auto;
+  height: 100%;
+  box-sizing: content-box;
+}
+.rectangle3 {
+  position: relative;
+  background-color: #c9c4c4;
+  width: auto;
+  height: 100%;
+  box-sizing: content-box;
+}
+#EDGAR {
+  color: black;
+  font-size: 50px;
+}
+#ALONE {
+  color: black;
+  font-size: 50px;
+}
+#text {
+  color: black;
+  font-size: 40px;
+}
