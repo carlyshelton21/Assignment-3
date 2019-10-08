@@ -1,0 +1,38 @@
+body {
+    background-color: #0030ff;
+    padding:50px;
+    font-family: times new roman;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+h1 {
+    color: #ff00ed;
+    font-style: 300;
+}
+
+#ALONE {
+    font-size: 100px;
+    font-style: 200;
+    height: 30px;
+    width: 15px;
+}
+
+.container {
+    margin: 500 px;
+
+    padding: 500px;
+    border: solidxs
+}
+
+.author {
+    border-bottom: solid white 8px;
+}
+
+.ending
+    {
+    background-color:#ff00ed;
+    position:relative:
+    left:100px;
+    top:100px;
+}

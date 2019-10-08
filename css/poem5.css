@@ -1,0 +1,41 @@
+body {
+    background-color: #600808;
+    padding:700px;
+    font-family: caslon;
+    font-size: 80px;
+    letter-spacing: 1px;
+}
+
+h1 {
+    color: #ff002e ;
+    font-style: 500px;
+}
+
+#ALONE {
+    font-size: 500px;
+    font-style: 300;
+    height: 60px;
+    width: 40px;
+}
+
+.container {
+    margin: 20px;
+
+    padding: 30px;
+    border: solidxs
+}
+
+.author {
+    border-bottom: solid black 8px;
+    background-color:#ffff;
+    height: 30px;
+    width: 20px;
+}
+
+.begining
+    {
+    background-color:#ffff;
+    position:relative:
+    left:200px;
+    top:500px;
+}

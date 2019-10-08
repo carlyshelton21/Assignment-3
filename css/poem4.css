@@ -1,0 +1,35 @@
+body {
+    background-color: #f2ff00;
+    padding:20px;
+    font-family: didot;
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+
+#ALONE {
+    font-size: 550px;
+    font-style: 300;
+    height: 60px;
+    width: 40px;
+    letter-spacing: 20px;
+    color: #b500ff
+}
+
+.container {
+    margin: 800px;
+
+    padding: 30px;
+    border: solidxs
+}
+
+.author {
+    border-bottom: solid black 8px;
+}
+
+.ending
+    {
+    background-color:#ffff;
+    position:relative:
+    left:200px;
+    top:500px;
+}

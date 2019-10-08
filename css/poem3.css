@@ -1,0 +1,38 @@
+body {
+    background-color: #00ff19;
+    padding:20px;
+    font-family: futura;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+h1 {
+    color: #0003ff ;
+    font-style: 500px;
+}
+
+#ALONE {
+    font-size: 500px;
+    font-style: 300;
+    height: 60px;
+    width: 40px;
+}
+
+.container {
+    margin: 800px;
+
+    padding: 30px;
+    border: solidxs
+}
+
+.author {
+    border-bottom: solid white 8px;
+}
+
+.begining
+    {
+    background-color:#ffff;
+    position:relative:
+    left:200px;
+    top:500px;
+}

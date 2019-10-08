@@ -1,0 +1,97 @@
+body {
+    margin: 10;
+    font-family: helvetica;
+    background-color: #a600ff
+}
+
+.rectangle {
+    position: static;
+    top: auto;
+    background-color:#ff00de;
+    width: 30vh;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle2{
+    position: relative;
+    background-color: #ff7ae6;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle3{
+    position: relative;
+    background-color: #ff7ae6;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle4{
+    position: relative;
+    background-color: #ff7ae6;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle5{
+    position: relative;
+    background-color:#ff7ae6;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle6{
+    position: relative;
+    background-color: #ff7ae6;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+.rectangle7{
+    position: relative;
+    background-color: black;
+    width: auto;
+    height: 100%;
+    box-sizing: content-box;
+}
+
+#h1{
+    color: black;
+    font-size: 45px;
+    font-weight: lighter;
+}
+#h2{
+    color: black;
+    font-size: 40px;
+    font-weight: lighter;
+}
+#h3{
+    color: black;
+    font-size: 35px;
+    font-weight: lighter;
+}
+#h3{
+    color: black;
+    font-size: 30px;
+    font-weight: lighter;
+}
+#h4{
+    color: black;
+    font-size: 25px;
+    font-weight: lighter;
+}
+#h5{
+    color: black;
+    font-size: 20px;
+    font-weight: lighter;
+}
+#h6{
+    color: black;
+    font-size: 15px;
+    font-weight: lighter;
+}
+#ALONE{
+    color: #ff00de;
+    font-size: 60px;
+    font-weight: bold;
+}
